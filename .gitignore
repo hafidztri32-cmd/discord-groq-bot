@@ -1,2 +1,18 @@
-.env
+# Byte-compiled / optimized files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Other unwanted files
+*.log
